@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px,ifr));
+    gap: 10px;
+}
+.movie-grid {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
